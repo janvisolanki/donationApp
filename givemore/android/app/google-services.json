@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055167226849",
+    "firebase_url": "https://charityapp-a17fd.firebaseio.com",
+    "project_id": "charityapp-a17fd",
+    "storage_bucket": "charityapp-a17fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055167226849:android:2c9d86f0b77b667ad4e8a0",
+        "android_client_info": {
+          "package_name": "com.example.givemore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055167226849-p46r1eapem7k64chm02eviu9gorbri43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOdgcx0JDse0PXojjuC6oS2KyM6awNuG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055167226849-p46r1eapem7k64chm02eviu9gorbri43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
